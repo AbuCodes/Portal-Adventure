@@ -18,4 +18,4 @@ This most of the code that I wrote for the game Portal Adventure this is by no m
 
 * Feel free to use any of this code for your projects there are some usefull Singelton systems such as the sound system, however i do not recommed using the game specific code since its spacific to the game.
 * Most of the code is undocumented this is because i was the sole develeoper of this project.
-* Throw me a message if you need help with anything of have any questions related to this project :)
+* Throw me a message if you need help with anything orhave any questions related to this project
